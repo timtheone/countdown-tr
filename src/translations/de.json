@@ -1,0 +1,11 @@
+{
+    "Countdown": {
+        "title": "Beginnt in",
+        "date": {
+            "days": "tage",
+            "hours": "stunden",
+            "minutes": "minuten",
+            "seconds": "sekunden"
+        }
+    }
+}
